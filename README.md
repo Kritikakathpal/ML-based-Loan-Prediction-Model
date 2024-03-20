@@ -6,11 +6,11 @@ Additionally, credit score and income level provide insights into the applicant'
 
 **Tech Stack Used** 
 
-Programming Language: Python
-Libraries: Numpy, Pandas, Sklearn, Matplotlib, Seaborn 
-IDE: Jupyter Notebook
-Database: MySQL
-ML Algos: Naive Bayes and Random Forest 
+Programming Language: Python;
+Libraries: Numpy, Pandas, Sklearn, Matplotlib, Seaborn;
+IDE: Jupyter Notebook;
+Database: MySQL;
+ML Algos: Naive Bayes and Random Forest;
 
 
 
